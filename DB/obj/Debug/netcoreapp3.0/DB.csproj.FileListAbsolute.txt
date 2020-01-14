@@ -1,0 +1,9 @@
+C:\Users\Element\source\repos\movies\DB\bin\Debug\netcoreapp3.0\DB.deps.json
+C:\Users\Element\source\repos\movies\DB\bin\Debug\netcoreapp3.0\DB.dll
+C:\Users\Element\source\repos\movies\DB\obj\Debug\netcoreapp3.0\DB.AssemblyInfoInputs.cache
+C:\Users\Element\source\repos\movies\DB\obj\Debug\netcoreapp3.0\DB.AssemblyInfo.cs
+C:\Users\Element\source\repos\movies\DB\bin\Debug\netcoreapp3.0\DB.runtimeconfig.json
+C:\Users\Element\source\repos\movies\DB\bin\Debug\netcoreapp3.0\DB.runtimeconfig.dev.json
+C:\Users\Element\source\repos\movies\DB\bin\Debug\netcoreapp3.0\DB.pdb
+C:\Users\Element\source\repos\movies\DB\obj\Debug\netcoreapp3.0\DB.dll
+C:\Users\Element\source\repos\movies\DB\obj\Debug\netcoreapp3.0\DB.pdb
